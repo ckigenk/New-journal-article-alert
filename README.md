@@ -1,1 +1,1 @@
-$ New Article Alert Bot
+# New Article Alert Bot
